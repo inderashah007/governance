@@ -1,3 +1,4 @@
+[![Build and test](https://github.com/ArbitrumFoundation/governance/actions/workflows/build-test.yml/badge.svg?branch=main)](https://github.com/ArbitrumFoundation/governance/actions/workflows/build-test.yml)
 # Arbitrum Governance
 This project contains smart contracts for Arbitrum token and governance. Please see the following for a more detailed explanation:
 * [Overview](./docs/overview.md)
